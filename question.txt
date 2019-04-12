@@ -1,0 +1,31 @@
+question: 
+
+TECHNICAL TEST
+As the next step of our recruitment process, we would like to invite you to take a technical test. 
+
+1. Case Study:
+Within one Year, a new car rental business will be started. It takes a lot of preparation especially about tracking the cars.
+For this one, please make a tracking system and location history based on a Javascript language!
+ 
+2. Backend: 
+Create a very simple REST API.  Let's call this ‘People Matching API’. The API should support following features:
+ 
+- POST Register user with facebook.Id, name, age, and friends
+- GET Retrieve user information
+- GET Return a match of two people based on their ages and mutual friends
+ 
+Focus more on code quality as the problem itself is fairly straightforward. Write an API documentation and test if time permits.
+
+3. Backend:
+In 2009 the UC Berkeley Math Department sent this amusing error message to its faculty, staff and students:
+ 
+Warning: Due to a known bug, the default Linux document viewer evince prints N*N copies of a PDF file when N copies requested. As a workaround, use Adobe Reader acroread for printing multiple copies of PDF documents, or use the fact that every natural number is a sum of at most four squares.
+ 
+We're going to help these hapless mathematicians by building a practical table that they can use to look up the 1 to 4 squares necessary to print any arbitrary number of copies between 1 and 200.  For example, against 31 your table should say 5,2,1,1, since 5² + 2² + 1 + 1 = 31 and there's no way to express 31 as the sum of a smaller number of squares. If there's more than one way to express a number with the smallest number of squares, you can include any one such way.
+ 
+In addition to the table for the integers from 1 to 200, inclusive, also report how many numbers between 1 and 200 can only be expressed as the sum of four squares and not by a smaller number of squares.
+ 
+ 
+Notes:
+DO NOT copy a solution. We have already collected a list of solutions online. If we found your work is exactly same with some of them, we may have to terminate the review process. 
+To submit your work, please send us the source code via email within 3 days from the email sent date. We are willing to have a look on how you build the system step by step. Good luck!

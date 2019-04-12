@@ -1,0 +1,24 @@
+{
+  "name": "simple-api-expressjs-group-start-online-test",
+  "version": "1.0.0",
+  "description": "Simple API for online test Groupstar company",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadlytanjung/simple-API-ExpressJS-group-start-online-test.git"
+  },
+  "author": "Fadly Tanjung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadlytanjung/simple-API-ExpressJS-group-start-online-test/issues"
+  },
+  "homepage": "https://github.com/fadlytanjung/simple-API-ExpressJS-group-start-online-test#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11"
+  }
+}

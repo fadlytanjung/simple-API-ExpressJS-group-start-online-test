@@ -1,0 +1,1 @@
+[{"facebook_id":1,"name":"Fadly Tanjung","age":22,"friends":[{"facebook_id":2},{"facebook_id":3}]},{"facebook_id":2,"name":"Lisa Olivia","age":22,"friends":[{"facebook_id":1}]},{"facebook_id":3,"name":"Isa Dadi","age":22,"friends":[{"facebook_id":1}]},{"facebook_id":4,"name":"Syaiful Anwar","age":23,"friends":[{"facebook_id":1}]}]
